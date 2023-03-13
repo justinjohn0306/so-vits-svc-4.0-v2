@@ -149,7 +149,7 @@ The existing steps before clustering do not need to be changed. All you need to 
   - Specify "cluster_model_path" in inference_main.
   - Specify "cluster_infer_ratio" in inference_main, where 0 means not using clustering at all, 1 means only using clustering, and usually 0.5 is sufficient.
 
-### [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/justinjohn0306/so-vits-svc-4.0-v2/blob/main/sovits4v2_training_infer.ipynb) [sovits4v2 for colab.ipynb](https://colab.research.google.com/github/justinjohn0306/so-vits-svc-4.0-v2/blob/main/sovits4v2_training_infer.ipynb)
+### [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/justinjohn0306/so-vits-svc-4.0-v2/blob/main/sovits4v2_training_testing.ipynb) [sovits4v2 for colab.ipynb](https://colab.research.google.com/github/justinjohn0306/so-vits-svc-4.0-v2/blob/main/sovits4v2_training_testing.ipynb)
 
 ## Exporting to Onnx
 
