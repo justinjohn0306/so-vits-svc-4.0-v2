@@ -170,19 +170,19 @@ Note: For Hubert Onnx models, please use the models provided by MoeSS. Currently
 
 ## Some legal provisions for reference
 
-#### 《民法典》
+#### Civil Code
 
-##### 第一千零一十九条 
+##### Article 1019 
 
-任何组织或者个人不得以丑化、污损，或者利用信息技术手段伪造等方式侵害他人的肖像权。未经肖像权人同意，不得制作、使用、公开肖像权人的肖像，但是法律另有规定的除外。
-未经肖像权人同意，肖像作品权利人不得以发表、复制、发行、出租、展览等方式使用或者公开肖像权人的肖像。
-对自然人声音的保护，参照适用肖像权保护的有关规定。
+No organization or individual may infringe upon the portrait right of another person by scandalizing, defacing, or falsifying by means of information technology. Without the consent of the portrait right holder, the portrait of the portrait right holder may not be produced, used, or made public, except as otherwise provided by law.
+Without the consent of the portrait right, the portrait work right holder shall not use or disclose the portrait of the portrait right holder by publication, reproduction, distribution, rental, exhibition, etc.
+The protection of the voice of a natural person, with reference to the application of the relevant provisions of the protection of portrait rights.
 
-#####  第一千零二十四条 
+##### Article 104 
 
-【名誉权】民事主体享有名誉权。任何组织或者个人不得以侮辱、诽谤等方式侵害他人的名誉权。  
+The right to reputation] civil subjects enjoy the right to reputation. Any organization or individual shall not infringe upon the right of reputation of others by insulting, defaming, etc.  
 
-#####  第一千零二十七条
+##### Article One Thousand and Twenty-seven
 
-【作品侵害名誉权】行为人发表的文学、艺术作品以真人真事或者特定人为描述对象，含有侮辱、诽谤内容，侵害他人名誉权的，受害人有权依法请求该行为人承担民事责任。
-行为人发表的文学、艺术作品不以特定人为描述对象，仅其中的情节与该特定人的情况相似的，不承担民事责任。  
+The victim has the right to request the perpetrator to assume civil liability if the literary or artistic work published by the perpetrator contains insulting or defamatory content by describing a real person or a specific person, which infringes on the right to reputation of others.
+The perpetrator of the literary or artistic works published by the perpetrator does not use a specific person as the object of description, only the circumstances of which are similar to the specific person's situation, shall not bear civil liability.
