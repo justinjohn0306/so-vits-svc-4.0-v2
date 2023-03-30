@@ -48,12 +48,12 @@ wget -P hubert/ http://obs.cstcloud.cn/share/obs/sankagenkeshi/checkpoint_best_l
 
 #### **Optional(Strongly recommend)**
 
-- Pre-trained model files: `G_0.pth` `D_0.pth`
-  - Place them under the `logs/44k` directory
+```shell
+# G and D pre-training model:
+wget -P logs/44k/ https://huggingface.co/justinjohn-03/so-vits-svc-4.0-v2-pretrained/resolve/main/G_0.pth
+wget -P logs/44k/ https://huggingface.co/justinjohn-03/so-vits-svc-4.0-v2-pretrained/resolve/main/D_0.pth
 
-Get them from svc-develop-team(TBD) or anywhere else.
-
-Although the pretrained model generally does not cause any copyright problems, please pay attention to it. For example, ask the author in advance, or the author has indicated the feasible use in the description clearly.
+```
 
 ## Dataset Preparation
 
